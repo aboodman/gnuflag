@@ -1,0 +1,24 @@
+{
+  "author": "aa",
+  "bugs": {
+    "url": "https://github.com/juju/gnuflag"
+  },
+  "gx": {
+    "dvcsimport": "github.com/juju/gnuflag"
+  },
+  "gxDependencies": [
+    {
+      "author": "aa",
+      "hash": "QmdiJeCpVznoeWgQjZ2N8n5ngN3GzzVABaa7Rv9vosSPUw",
+      "name": "noms",
+      "version": "7.18.0"
+    }
+  ],
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "",
+  "name": "gnuflag",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
+
